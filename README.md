@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mechseiko 👀
+- 👋 Hi, I’m Abdulqoyum 👀
 - 📫 Find me at x.com/mechseiko 💞️
 
 <!---
