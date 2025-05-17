@@ -1,5 +1,5 @@
 - 👋 Hi, I’m mechseiko 👀
-- 📫 How to reach me: x.com/mechseiko 💞️
+- 📫 Find me at x.com/mechseiko 💞️
 
 <!---
 mechseiko/mechseiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
