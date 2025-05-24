@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdulqoyum 👀
+- 👋 Hey, I’m Abdulqoyum 👀
 - 📫 Find me at x.com/mechseiko || +2349121945434💞️
 
 <!---
