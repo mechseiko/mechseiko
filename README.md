@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Abdulqoyum 👀
 - 📫 Find me at x.com/mechseiko
-- 📱 Or send a text to +2349121945434
+- 📱 Or send a text to +2349017306652
 - ✨ Check out my Portfolio https://devseiko.vercel.app
 
 <!---
