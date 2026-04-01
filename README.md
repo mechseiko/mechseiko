@@ -1,7 +1,7 @@
-- 👋 Hey, I’m Abdulqoyum 👀
-- 📫 Find me at x.com/mechseiko
-- 📱 Or send a text to +2349017306652
-- ✨ Check out my Portfolio https://devseiko.vercel.app
+- 👋 Abdulqoyum
+- 📫 x.com/mechseiko
+- 📱 +2349017306652
+- ✨ Portfolio: https://devseiko.vercel.app
 
 <!---
 mechseiko/mechseiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
