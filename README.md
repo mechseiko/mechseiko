@@ -45,6 +45,6 @@
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abdulqoyum-amuda)  
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/mechseiko)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel)](https://devseiko.vercel.app)  
