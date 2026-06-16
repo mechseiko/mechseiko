@@ -30,7 +30,6 @@
 ## 📊 GitHub Activity  
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mechseiko&theme=radical)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=mechseiko&theme=onedark)  
 
 ---
 
