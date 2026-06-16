@@ -3,12 +3,10 @@
 ![Banner](https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge&logo=react)  
 ![Profile Views](https://komarev.com/ghpvc/?username=mechseiko&color=brightgreen)  
 ![GitHub Followers](https://img.shields.io/github/followers/mechseiko?style=social)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mechseiko&show_icons=true)
 
 ---
 
 ## 🚀 About Me  
-- 🌐 Portfolio: [devseiko.vercel.app](https://devseiko.vercel.app)  
 - 💻 Currently Specializing in **AI & modern frontend tooling**  
 - 📚 Constant learner
 - 🤝 Open to collaboration on open‑source and innovative web projects  
@@ -35,21 +33,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mechseiko&layout=compact&theme=radical)  
 
 ---
-
-## 📫 Connect With Me  
-- 🌍 Portfolio: [devseiko.vercel.app](https://devseiko.vercel.app)  
-- 🐦 X (Twitter): [@mechseiko](https://x.com/mechseiko)
-- 📱 Phone: [+2349017306652](tel:+2349017306652)
-
----
-
-
-## 📌 Featured Projects  
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Portfolio](https://devseiko.vercel.app) | Personal portfolio showcasing my work | React, Next.js, TailwindCSS |
-| [Dua App](https://github.com/fitrahive/dua-dhikr) | Web app consuming Dua & Dhikr API | React, API Integration |
 
 ---
 
