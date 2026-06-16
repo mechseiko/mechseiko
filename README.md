@@ -8,8 +8,8 @@
 
 ## 🚀 About Me  
 - 🌐 Portfolio: [devseiko.vercel.app](https://devseiko.vercel.app)  
-- 💻 Specializing in **AI & modern frontend tooling**  
-- 📚 Constant learner — exploring performance optimization, accessibility, and UI/UX best practices  
+- 💻 Currently Specializing in **AI & modern frontend tooling**  
+- 📚 Constant learner
 - 🤝 Open to collaboration on open‑source and innovative web projects  
 - 📍 Based in Nigeria  
 
@@ -41,3 +41,26 @@
 - 📱 Phone: [+2349017306652](tel:+2349017306652)
 
 ---
+
+
+## 📌 Featured Projects  
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Portfolio](https://devseiko.vercel.app) | Personal portfolio showcasing my work | React, Next.js, TailwindCSS |
+| [Dua App](https://github.com/fitrahive/dua-dhikr) | Web app consuming Dua & Dhikr API | React, API Integration |
+
+---
+
+## 📊 GitHub Activity  
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mechseiko&theme=radical)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=mechseiko&theme=onedark)  
+
+---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/mechseiko)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel)](https://devseiko.vercel.app)  
