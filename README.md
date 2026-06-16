@@ -6,12 +6,6 @@
 
 ---
 
-## 🚀 About Me  
-- 💻 Currently Specializing in **AI & modern frontend tooling**  
-- 📚 Constant learner, open to collaboration on open‑source and innovative web projects
-- 
----
-
 ## 🛠️ Tech Stack 
 
 | ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript) | ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript) | ![Python](https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python) |
