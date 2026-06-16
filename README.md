@@ -27,15 +27,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mechseiko&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mechseiko&layout=compact&theme=radical)  
-
----
-
----
-
 ## 📊 GitHub Activity  
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mechseiko&theme=radical)  
@@ -43,8 +34,15 @@
 
 ---
 
-## 🌐 Connect With Me  
+## 📈 GitHub Stats  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mechseiko&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mechseiko&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel)](https://devseiko.vercel.app)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abdulqoyum-amuda)  
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/mechseiko)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel)](https://devseiko.vercel.app)  
