@@ -8,21 +8,36 @@
 
 ## 🚀 About Me  
 - 🌐 Portfolio: [devseiko.vercel.app](https://devseiko.vercel.app)  
-- 💻 Specializing in **React, JavaScript, TailwindCSS, and modern frontend tooling**  
+- 💻 Specializing in **AI & modern frontend tooling**  
 - 📚 Constant learner — exploring performance optimization, accessibility, and UI/UX best practices  
 - 🤝 Open to collaboration on open‑source and innovative web projects  
 - 📍 Based in Nigeria  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/TypeScript-Strongly%20Typed-blue?style=for-the-badge&logo=typescript)  
 ![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)  
 ![Next.js](https://img.shields.io/badge/Next.js-Framework-black?style=for-the-badge&logo=next.js)  
+![React Native](https://img.shields.io/badge/React%20Native-Mobile%20Apps-blue?style=for-the-badge&logo=react)  
+![Redux](https://img.shields.io/badge/Redux-State%20Management-purple?style=for-the-badge&logo=redux)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Utility-blue?style=for-the-badge&logo=tailwindcss)  
+![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?style=for-the-badge&logo=html5)  
+![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3)  
+![Sass](https://img.shields.io/badge/Sass-Preprocessor-pink?style=for-the-badge&logo=sass)  
+![Python](https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python)  
+![Gradle](https://img.shields.io/badge/Gradle-Build%20Automation-darkgreen?style=for-the-badge&logo=gradle)  
+![Capacitor.js](https://img.shields.io/badge/Capacitor.js-Cross%20Platform-lightblue?style=for-the-badge&logo=capacitor)  
+![Jest](https://img.shields.io/badge/Jest-Testing-red?style=for-the-badge&logo=jest)  
 ![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git)  
+![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-black?style=for-the-badge&logo=github)  
 ![Vercel](https://img.shields.io/badge/Vercel-Deployment-black?style=for-the-badge&logo=vercel)  
+![Render](https://img.shields.io/badge/Render-Cloud%20Hosting-purple?style=for-the-badge&logo=render)  
+![NPM](https://img.shields.io/badge/NPM-Package%20Manager-red?style=for-the-badge&logo=npm)  
+![Figma](https://img.shields.io/badge/Figma-Design%20Tool-purple?style=for-the-badge&logo=figma)  
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?style=for-the-badge&logo=visualstudiocode)  
 
 ---
 
@@ -35,10 +50,7 @@
 
 ## 📫 Connect With Me  
 - 🌍 Portfolio: [devseiko.vercel.app](https://devseiko.vercel.app)  
-- 🐦 X (Twitter): [@mechseiko](https://x.com/mechseiko) *(currently inactive)*  
-- 📱 Phone: [+2349017306652](tel:+2349017306652)  
+- 🐦 X (Twitter): [@mechseiko](https://x.com/mechseiko)
+- 📱 Phone: [+2349017306652](tel:+2349017306652)
 
 ---
-
-## ✨ Fun Fact  
-I believe great frontend development is about more than just code — it’s about **crafting experiences that feel natural, fast, and delightful**.  
