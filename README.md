@@ -8,10 +8,8 @@
 
 ## 🚀 About Me  
 - 💻 Currently Specializing in **AI & modern frontend tooling**  
-- 📚 Constant learner
-- 🤝 Open to collaboration on open‑source and innovative web projects  
-- 📍 Based in Nigeria  
-
+- 📚 Constant learner, open to collaboration on open‑source and innovative web projects
+- 
 ---
 
 ## 🛠️ Tech Stack 
