@@ -3,6 +3,7 @@
 ![Banner](https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge&logo=react)  
 ![Profile Views](https://komarev.com/ghpvc/?username=mechseiko&color=brightgreen)  
 ![GitHub Followers](https://img.shields.io/github/followers/mechseiko?style=social)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mechseiko&show_icons=true)
 
 ---
 
