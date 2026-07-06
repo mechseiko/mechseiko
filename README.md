@@ -23,13 +23,14 @@
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mechseiko&theme=radical)  
 
+<!--
 ---
 
 ## 📈 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mechseiko&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mechseiko&layout=compact&theme=radical)  
-
+-->
 ---
 
 ## 🌐 Connect With Me
