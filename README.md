@@ -1,6 +1,6 @@
 # 👨‍💻 Abdulqoyum Amuda | Frontend & AI Engineer
 
-![Banner](https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge&logo=react)  
+![Banner]([https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge&logo=react](https://img.shields.io/badge/Next.js-Framework-black?style=for-the-badge&logo=next.js))  
 ![Profile Views](https://komarev.com/ghpvc/?username=mechseiko&color=brightgreen)  
 ![GitHub Followers](https://img.shields.io/github/followers/mechseiko?style=social)  
 
