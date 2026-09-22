@@ -1,4 +1,4 @@
-# 👨‍💻 Abdulqoyum Amuda | Frontend & AI Engineer
+# 👨‍💻 Abdulqoyum Amuda | Anything from Web to Mobile
 
 ![Banner](https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge&logo=react)  
 ![Profile Views](https://komarev.com/ghpvc/?username=mechseiko&color=brightgreen)  
