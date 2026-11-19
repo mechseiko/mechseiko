@@ -9,13 +9,13 @@
 
 ## 🚀 Selected Projects
 
-### Client & professional work
+### Professional work
+
+**[Logit](https://uselogit.cv)** — Software that writes SIWES, SWEP and IT logbooks plus project and school reports from the work you actually did.
+
+**[ZiConvert](https://ziconvert.vercel.app)** — Image to DXF Conversion Software for lasercut.
 
 **[IP Hive](https://iphive.vercel.app)** — Patent filing and investment-showcasing platform built at OMobile.world. Figma designs shipped to production, payment gateway and API integration, and user coverage up by over 50%.
-
-**[Zorvyn](https://fin-dashboard-ui.vercel.app)** — Fintech dashboard built during a frontend internship: data visualisation, responsive layouts, and enterprise-level UI detail.
-
-**[Fischerbon](https://fischerbon.vercel.app)** — Learning management platform for Fischerbon Engineering Ltd: paid course delivery, student enrollment, and Paystack integration with transaction verification and webhook-driven provisioning.
 
 **[NIMECHE OAU](https://nimeche-oau.vercel.app)** — Official website for the NIMECHE student chapter at Obafemi Awolowo University.
 
@@ -30,6 +30,8 @@
 ### Products & open source
 
 **[Heroship](https://heroship.appwrite.network)** — Open-source hero-section generator: ship clean landing sections without writing markup, with AI code-conversion tooling (gitloop, code-converter) built in.
+
+**[Frontend Eval](https://github.com/mechseiko/Frontend-eval)** — An Eval of Agents doing Frontend work.
 
 **[AmtaPro](https://amtapro.vercel.app)** — Football-talent networking platform: player profiles with stats, academy history, current club and video highlight reels, connecting players to scouts and clubs.
 
